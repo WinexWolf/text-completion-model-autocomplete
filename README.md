@@ -13,6 +13,8 @@ A Negative/Positive Comments Sentiment Analysis model using Python
 # word-embeddings-model
 A model that calculates cosine similarity between words of similar length
 
-
+**References:**
+1. https://huggingface.co/
+2. https://www.linkedin.com/learning/hands-on-ai-build-a-generative-language-model-from-scratch/
 
 
